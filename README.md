@@ -18,4 +18,4 @@ Hi! I'm from the 🇵🇭 Philippines 🇵🇭<br><br>I'm a beginner right now m
 [![](https://visitcount.itsvg.in/api?id=freakingdan&icon=5&color=1)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/danlauzii) 
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/danlauz0) 
