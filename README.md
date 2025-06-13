@@ -14,7 +14,7 @@ Hi! I'm from the 🇵🇭 Philippines 🇵🇭<br><br>I'm a beginner right now m
 ![](https://github-readme-stats.vercel.app/api?username=freakingdan&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=freakingdan&theme=midnight-purple&hide_border=false)<br/>
 
-### 🔝 Top Contributed Repo
+### 🔝 My Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=freakingdan&limit=5&theme=midnight-purple&combine_all_yearly_contributions=true)
 
 ### ✍️ Random Dev Quote
