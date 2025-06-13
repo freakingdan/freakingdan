@@ -11,14 +11,18 @@ Hi! I'm from the 🇵🇭 Philippines 🇵🇭<br><br>I'm a beginner right now m
 ---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=freakingdan&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=freakingdan&theme=midnight-purple&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=freakingdan&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=freakingdan&theme=blue_navy&hide_border=false)<br/>
+
+---
 
 ### 🔝 My Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=freakingdan&limit=5&theme=midnight-purple&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=freakingdan&limit=5&theme=blue_navy&combine_all_yearly_contributions=true)
+
+---
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
 ---
 
@@ -26,5 +30,3 @@ Hi! I'm from the 🇵🇭 Philippines 🇵🇭<br><br>I'm a beginner right now m
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/danlauz0) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/freakingdan)
 
 ---
-
-[![](https://visitcount.itsvg.in/api?id=freakingdan&icon=5&color=1)](https://visitcount.itsvg.in)
